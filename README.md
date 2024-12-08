@@ -29,7 +29,6 @@ The project includes the following screens:
 - **Typography**: Clean, readable typefaces chosen for maximum user readability and aesthetic appeal.
 - **Iconography**: Custom icons created for music control and navigation.
 
-![alt text](Albums.png)
 
 # Contact
 For further needs contact me through my email, deva29008@gmail.com
